@@ -77,10 +77,10 @@
         },
         "mail": {
             "enabled": true,
-            "secrets": "MAIL_KEY",
+            "secrets": "gmwxtysydtpuigdf",
             "address": "firmianay@163.com",
             "server": "smtp.163.com",
-            "receiver": ["2419110059@qq.com"],
+            "receiver": ["1192031943@qq.com"],
             "key": "xxxxxxxxxx"
         }
     }
